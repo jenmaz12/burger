@@ -3,4 +3,4 @@ This application logs burgers created and devoured using MySQL, Node, Express, H
 
 Click [here](https://radiant-stream-35563.herokuapp.com/) to visit the deployed site on Heroku!
 
-![Eat-Da-Burger](/assets/img/screenshot.png "Eat-Da-Burger Application")
+![Eat-Da-Burger](/public/assets/img/screenshot.png "Eat-Da-Burger Application")
